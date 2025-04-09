@@ -1,5 +1,4 @@
 # Hello, world!
-## Hello
-###### Hi, bro!
+## Hello, everyone!
 
 I write a new text.
